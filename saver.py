@@ -1,5 +1,5 @@
 """
-Module made by Clement Delzotti to save logs about the game.
+Module made by Clement Delzotti (@cdelzotti) to save logs about the game.
 """
 
 import shutil
