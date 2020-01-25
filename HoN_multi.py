@@ -2756,4 +2756,5 @@ def get_ia_actions(data_base, ia_team):
     return ia_actions
 
 
+play_game('./coeur_du_royaume.txt', 'ia', 'ia')
 
